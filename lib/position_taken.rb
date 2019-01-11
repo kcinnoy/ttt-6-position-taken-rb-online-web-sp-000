@@ -17,4 +17,5 @@ def position_taken?(board, index)
     false
   else
     "error"
+  end
 end
